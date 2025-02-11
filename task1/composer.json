@@ -1,0 +1,17 @@
+{
+    "name": "manov/task1",
+    "autoload": {
+        "psr-4": {
+            "Manov\\Task1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mmanov",
+            "email": "mmanov@adsterra.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "^2.3"
+    }
+}
