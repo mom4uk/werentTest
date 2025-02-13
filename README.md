@@ -6,7 +6,7 @@
 
 - Redis
 - Composer
-- Php
+- Php 8^
 
 ```
 cd werenttest/task1
